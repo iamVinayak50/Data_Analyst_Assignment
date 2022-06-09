@@ -1,0 +1,47 @@
+1.Try to write a code for printing sequence of numbers from 1 to 50 with the differences of 3, 5, 10 
+
+2. What are the different data objects in R? and write syntax and example for each and every object
+
+3. Create Data frame with 3 columns and 5 rows and write a code to fetch and delete row and a column using index and add new column and row to the existed data frame
+
+4.Write nested if else statements to print whether the given number is negative, positive or Zero 
+
+5.write a program to input any value and check whether it is character, numeric or special character
+
+write difference between break and next also write examples for both 
+
+7.write a program to print a given vector in reverse format  
+
+x= c(1,5.6,3,10,3.5,5)
+
+ 
+
+8.write a program to get the mode value of the given vector (‘a’,’b’,’c’,’t’,’a’,’c’,’r’,’a’,’c’,’t’,’z’,’r’,’v’,’t’,’u’,’e’,’t’)
+
+9.Write a function to filter only data belongs to ‘setosa’ in species of Iris dataset.( using dplyr package) 
+
+10.Create a new column for iris dataset with the name of Means_of_obs, which contains mean value of each row.( using dplyr package)
+
+11.Filter data for the “versicolor” and get only ‘sepel_length’ and Sepel _width’ columns.( using dplyr package)
+
+12.create below plots for the mtcars also write your inferences for each and every plot (use ggplot package) Use Different ( Size , Colour )
+
+
+scatter plot
+
+
+
+boxplot
+
+
+
+histogram
+
+
+
+line graph
+
+
+
+bar graph
+
